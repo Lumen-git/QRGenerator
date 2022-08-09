@@ -1,4 +1,4 @@
-# GRGenerator
+# QRGenerator
 Turns text into a QR code. Demo of the qrcode python library
 
 Run the program with python. It'll ask for some input text. Whatever you type will be saved in the resulting QR code.
